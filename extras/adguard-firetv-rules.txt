@@ -1,0 +1,13 @@
+! Fire TV telemetry block rules for AdGuard (User rules)
+! Seen in the TV's live logs
+||unagi-na.amazon.com^
+||unagi.amazon.com^
+||telemetry.insights.video.a2z.com^
+||minerva.devices.a2z.com^
+! Hard-coded in the locked crashmanager / logmanager apps
+||det-ta-g7g.amazon.com^
+||firs-ta-g7g.amazon.com^
+||dcape-na.amazon.com^
+! Widely reported Fire TV metrics endpoints
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^
